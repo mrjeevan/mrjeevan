@@ -13,7 +13,11 @@ I love to build scripts that help Automate daily tasks. I also love to Learn new
 
 
 
-<a href="https://mrjeevan.ml"></a>
+<a href="https://mrjeevan.ml">
+
+<img src="logo.png" alt="My Logo" align="right">
+
+</a>
 
 
 - 🔭 I’m currently working on Front end web devolopment.
