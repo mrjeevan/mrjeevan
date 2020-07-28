@@ -10,7 +10,7 @@
 I am a Student and a Python developer. My interests include AI , Game development , Machine Learning , Web development and Ethical hacking.
 I love to build scripts that help Automate daily tasks. I also love to Learn new skills , participate in Hackathons and work with different Operating Systems. 
 
-Here are some ideas to get you started:
+
 
 <a href="logo.png"><img src = "logo.png" align="right" width="150" height="150" ></a>
 - 🔭 I’m currently working on Front end web devolopment.
