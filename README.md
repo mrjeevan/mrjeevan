@@ -12,7 +12,10 @@ I love to build scripts that help Automate daily tasks. I also love to Learn new
 
 
 
- <a href="logo.png">  <img src = "logo.png" align="right" width="150" height="150" > </a>
+
+<a href="https://mrjeevan.ml"></a>
+
+
 - 🔭 I’m currently working on Front end web devolopment.
 - 🌱 I’m currently learning Bootstrap 4.
 - 🤔 *I’m looking to collaborate on any project with Python.* 
