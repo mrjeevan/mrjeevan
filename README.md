@@ -12,7 +12,7 @@ I love to build scripts that help Automate daily tasks. I also love to Learn new
 
 
 
-      <img src = "logo.png" align="right" width="150" height="150" >
+<img src = "logo.png" align="right" width="150" height="150" >
 - 🔭 I’m currently working on Front end web devolopment.
 - 🌱 I’m currently learning Bootstrap 4.
 - 🤔 *I’m looking to collaborate on any project with Python.* 
