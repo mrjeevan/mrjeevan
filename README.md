@@ -1,6 +1,8 @@
-# *M R Jeevan*
+#### Hellow 👋
 
-### Hi there 👋
+# Am *M R Jeevan*
+
+
 
 
  
@@ -13,8 +15,8 @@ Here are some ideas to get you started:
 <a href="logo.png"><img src = "logo.png" align="right" width="150" height="150" ></a>
 - 🔭 I’m currently working on Front end web devolopment.
 - 🌱 I’m currently learning Bootstrap 4.
-- 🤔 *I’m looking to collaborate on any project with Python. 
-- 💬 You can ask me about basic Python  
-- 📫 How to reach me: [M R Jeevan](https://twitter.com/MRJeevan8) 
-- ⚡ Fun fact: Am super lazy :)
+- 🤔 *I’m looking to collaborate on any project with Python.* 
+- 💬 You can ask me about basic Python , html , css. 
+- 📫 You can tweet me: [@MRJeevan8](https://twitter.com/MRJeevan8) 
+- ⚡ Fun fact: I am nocturnal ;)
 
