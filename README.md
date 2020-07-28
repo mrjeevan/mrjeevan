@@ -1,6 +1,4 @@
-#### Hello 👋
-
-# Am *M R Jeevan*
+# Hello 👋 , I'm  M R Jeevan 
 
 
 
