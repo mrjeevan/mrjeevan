@@ -1,16 +1,22 @@
+# *M R Jeevan*
+
 ### Hi there 👋
 
 <!--
 **mrjeevan/mrjeevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am a Student and a Python developer. My interests include AI , Game development , Machine Learning , Web development and Ethical hacking.
+I love to build scripts that help Automate daily tasks. I also love to Learn new skills , participate in Hackathons and work with different Operating Systems. 
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/mrjeevan/mrjeevan.github.io/blob/master/resource/logo.png"><img align="right" width="150" height="150" ></a>
+- 🔭 I’m currently working on Front end web devolopment.
+- 🌱 I’m currently learning Bootstrap 4.
+- 👯 *I’m looking to collaborate on any project with Python. 
+- 🤔 
+- 💬 You can ask me about basic Python  
+- 📫 How to reach me: [M R Jeevan](https://twitter.com/MRJeevan8) 
+-           😄 
+- ⚡ Fun fact: Am super lazy :)
 -->
