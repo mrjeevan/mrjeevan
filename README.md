@@ -15,7 +15,7 @@ I love to build scripts that help Automate daily tasks. I also love to Learn new
 
 <a href="https://mrjeevan.ml">
 
-<img src="logo.png" alt="My Logo" align="right">
+<img src="logo.png" alt="My Logo" align="right" width="150" height="150">
 
 </a>
 
