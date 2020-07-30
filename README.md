@@ -14,9 +14,9 @@
 
 ## What I Do ##
 
-- [x] Devolop static web pages
+- [x] Develop static web pages
 - [x] Play around with AI models
-- [x] Build scripts to automate tasks in python 
+- [x] Build scripts to automate tasks using python 
 
 More about me [here](https://mrjeevan.ml)
 
@@ -26,7 +26,7 @@ More about me [here](https://mrjeevan.ml)
 
 - 🔭 I’m currently working on Front end *web devolopment*.
 - 🌱 I’m currently learning *Bootstrap 4*.
-- 🤔 *I’m looking to collaborate on any project with Python.* 
+- 🤔 I’m looking to collaborate on any project with *Python* or *Web development* 
 - ⚡ Fun fact: I am [Nocturnal](https://en.wikipedia.org/wiki/Nocturnality) ;)
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=mrjeevan&count_private=true&show_icons=true&theme=tokyonight)
