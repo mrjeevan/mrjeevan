@@ -14,9 +14,9 @@
 
 ## What I Do ##
 
-- [x] Build scripts to automate tasks in python 
 - [x] Devolop static web pages
 - [x] Play around with AI models
+- [x] Build scripts to automate tasks in python 
 
 More about me [here](https://mrjeevan.ml)
 
