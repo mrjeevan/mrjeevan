@@ -1,3 +1,5 @@
+
+
 # Hello 👋 , I'm  M R Jeevan 
 
 
@@ -21,3 +23,6 @@ I love to build scripts that help Automate daily tasks. I also love to Learn new
 - 📫 You can tweet me: [@MRJeevan8](https://twitter.com/MRJeevan8) 
 - ⚡ Fun fact: I am nocturnal ;)
 
+
+![Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjeevan&hide=makefile,perl&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=mrjeevan&count_private=true&show_icons=true&theme=tokyonight)
