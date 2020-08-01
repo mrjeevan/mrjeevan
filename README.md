@@ -30,6 +30,8 @@ More about me [here](https://mrjeevan.ml)
 - 🌱 I’m currently learning *Bootstrap 4*.
 - 🤔 I’m looking to collaborate on any project with *Python* or *Web development* 
 - ⚡ Fun fact: I am [Nocturnal](https://en.wikipedia.org/wiki/Nocturnality) ;)
+- ![](https://komarev.com/ghpvc/?username=mrjeevan&color=blueviolet)
+
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=mrjeevan&count_private=true&show_icons=true&theme=tokyonight)
 ![Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjeevan&hide=makefile,perl&theme=tokyonight)
