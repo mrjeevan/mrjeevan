@@ -12,6 +12,8 @@
 - [x] Python developer
 - [x] Wannabe Web developer
 
+And more......
+
 ## What I Do ##
 
 - [x] Develop static web pages
