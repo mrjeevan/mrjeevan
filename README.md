@@ -3,7 +3,7 @@
 # Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm  M R Jeevan 
 
 
-
+<img align="center" src="https://i1.wp.com/codemyui.com/wp-content/uploads/2016/09/project-deadline-progress-bar-animation.gif?fit=880%2C440&ssl=1" alt="My Logo" height="250px" width="100%">
 
  <a href="https://mrjeevan.ml"><img align="right" src="https://raw.githubusercontent.com/mrjeevan/mrjeevan/master/logo.png" alt="My Logo" height="150px" width="150px"></a>
 ## What I Am ## 
