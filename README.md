@@ -2,13 +2,13 @@
 <h3 align="center">I love to work with latest technology, collaborate with others and contribute to open source projects</h3>
 
 
-- 🔭 I’m currently working on my [portfolio](mrjeevan.ml)
+- 🔭 I’m currently working on my [portfolio](https://mrjeevan.ml)
 
 - 🌱 I’m currently learning **Bootstrap, Django**
 
 - 👯 I’m looking to collaborate on **python, web-development**
 
-- 💻 All of my projects are available at [mrjeevan.ml](mrjeevan.ml)
+- 💻 All of my projects are available at [mrjeevan.ml](https://mrjeevan.ml/)
 
 - 💬 Ask me about **Python**
 
