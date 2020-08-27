@@ -26,6 +26,6 @@
 <br><br>
 <hr>
 <p align="center">
-<a href="https://linkedin.com/in/m-r-jeevan2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m-r-jeevan2000" height="30" width="30" /></a>
-<a href="https://fb.com/mr.jeevan.g1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mr.jeevan.g1" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/m-r-jeevan2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m-r-jeevan2000" height="40" width="40" /></a>
+<a href="https://fb.com/mr.jeevan.g1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mr.jeevan.g1" height="40" width="40" /></a>
 </p>
