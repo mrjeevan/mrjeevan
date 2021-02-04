@@ -25,6 +25,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjeevan&show_icons=true&theme=tokyonight" alt="mrjeevan" width="400px" height="250px"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjeevan&layout=compact&hide=html&theme=tokyonight" alt="mrjeevan" width="400px" height="250px"/></p>
 <br><br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrjeevan)
+
 <hr>
 <p align="center">
 <a href="https://linkedin.com/in/m-r-jeevan2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m-r-jeevan2000" height="40" width="40" /></a>
